@@ -1,2 +1,2 @@
 Hola GitHub
-Segunda modificación del proyecto,desde consola
+Segunda modificación del proyecto,desde consola,ahora desde visual code
